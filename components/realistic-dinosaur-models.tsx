@@ -1,3 +1,8 @@
+/**
+ * Interactive Dinosaur Explorer
+ * Created by Kester Nekese
+ */
+
 "use client"
 
 import { useFrame } from "@react-three/fiber"

@@ -1,7 +1,9 @@
 {
-  "name": "my-v0-project",
+  "name": "interactive-dinosaur-explorer",
   "version": "0.1.0",
   "private": true,
+  "author": "Kester Nekese",
+  "description": "An interactive 3D dinosaur exploration experience",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
