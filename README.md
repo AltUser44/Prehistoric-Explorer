@@ -2,8 +2,7 @@
 
 A realistic 3D interactive dinosaur experience built with React, Three.js, and Next.js. Explore a prehistoric world with scientifically accurate dinosaur models and learn fascinating facts about these ancient creatures.
 
-
-
+![3dgame](https://github.com/user-attachments/assets/e0160d3b-9584-4e8e-9b9a-18cd24986758)
 
 ## 🦕 Features
 
